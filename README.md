@@ -1,6 +1,6 @@
 # ProtectedRoom | 1.0.0
 
-![ProtectedRoomLogo](https://github.com/user-attachments/assets/)
+![ProtectedRoomLogo]([https://github.com/user-attachments/assets/](https://github.com/user-attachments/assets/fd52dc04-90df-4003-a52f-5d365e5ff115))
 
 ## Description :
 
